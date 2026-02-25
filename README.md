@@ -15,7 +15,7 @@ CorePilot, kurum bilgisayarlarında BT operasyon hızını artırmak için tasar
 2. Kurulum dosyasını çalıştırın.
 3. Sihirbaz adımlarını tamamlayın.
 4. Kurulum sonrası uygulamayı Başlat menüsünden açın.
-
+5. Uygulamayı yükledikten sonra smartscreen ekranı açılacaktır. VİRÜSLÜ olduğundan değil. Uygulamaya sertifika alabilecek maddi gücüm olmadığından kaynaklıdır.
 > Ek kurulum gerekmez. Python veya ek paket yüklemeniz istenmez.
 
 ## Kullanım
